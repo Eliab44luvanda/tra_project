@@ -1,0 +1,53 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}Background}{1}
+\contentsline {subsection}{\numberline {1.2}Objective of the assignment}{1}
+\contentsline {section}{\numberline {2}Methodology}{2}
+\contentsline {subsection}{\numberline {2.1}Literature Review}{2}
+\contentsline {subsection}{\numberline {2.2}Data Collection}{2}
+\contentsline {subsection}{\numberline {2.3}Data Analysis}{2}
+\contentsline {subsubsection}{\numberline {2.3.1}Estimation of Trend and Cylic Components of Macroeconomic Variables}{2}
+\contentsline {subsubsection}{\numberline {2.3.2}Computation of Correlation Coefficients and Variances}{3}
+\contentsline {subsection}{\numberline {2.4}Econometric Analysis}{4}
+\contentsline {subsubsection}{\numberline {2.4.1}Vector Autoregression (VAR) Model}{4}
+\contentsline {subsubsection}{\numberline {2.4.2}Cointegration Test}{4}
+\contentsline {subsubsection}{\numberline {2.4.3}Estimation of Simple Econometric Models}{4}
+\contentsline {subsection}{\numberline {2.5}Software package}{5}
+\contentsline {section}{\numberline {3}Main Findings of the Study}{5}
+\contentsline {subsection}{\numberline {3.1}Sectoral Perfomance Trends}{5}
+\contentsline {subsubsection}{\numberline {3.1.1}Contribution of Sectors to GDP}{5}
+\contentsline {subsubsection}{\numberline {3.1.2}Contribution of Sectors to Tax Revenue}{5}
+\contentsline {subsection}{\numberline {3.2}Business Cycles}{7}
+\contentsline {subsubsection}{\numberline {3.2.1}GDP}{7}
+\contentsline {subsubsection}{\numberline {3.2.2}Money Supply - Broadly Defined (M2)}{8}
+\contentsline {subsubsection}{\numberline {3.2.3}Inflation}{8}
+\contentsline {subsubsection}{\numberline {3.2.4}Government Expenditure}{9}
+\contentsline {subsection}{\numberline {3.3}Business Cycles and Tax Revenue}{10}
+\contentsline {subsubsection}{\numberline {3.3.1}Total Tax Revenue}{10}
+\contentsline {subsubsection}{\numberline {3.3.2}Income Tax}{11}
+\contentsline {subsubsection}{\numberline {3.3.3}Import and Excise Duties}{11}
+\contentsline {subsubsection}{\numberline {3.3.4}Other Taxes}{12}
+\contentsline {subsection}{\numberline {3.4}Seasonal Cycles and Tax Revenue by Disagreggated Sector}{12}
+\contentsline {subsubsection}{\numberline {3.4.1}Agricuture}{13}
+\contentsline {subsubsection}{\numberline {3.4.2}Mining}{13}
+\contentsline {subsubsection}{\numberline {3.4.3}Manufacturing}{14}
+\contentsline {subsubsection}{\numberline {3.4.4}Electricity}{15}
+\contentsline {subsubsection}{\numberline {3.4.5}Construction}{15}
+\contentsline {subsubsection}{\numberline {3.4.6}Trade}{16}
+\contentsline {subsubsection}{\numberline {3.4.7}Transport}{16}
+\contentsline {subsubsection}{\numberline {3.4.8}Financial Services}{17}
+\contentsline {subsubsection}{\numberline {3.4.9}Real Estates}{17}
+\contentsline {subsection}{\numberline {3.5}Are the Variables Pro-cyclical or Counter-cyclical?}{18}
+\contentsline {subsubsection}{\numberline {3.5.1}Business Cycles}{18}
+\contentsline {subsubsection}{\numberline {3.5.2}Seasonal Cycles}{19}
+\contentsline {subsection}{\numberline {3.6}Volatility}{19}
+\contentsline {subsubsection}{\numberline {3.6.1}Business Cycles}{19}
+\contentsline {subsubsection}{\numberline {3.6.2}Seasonal Cycles}{20}
+\contentsline {subsection}{\numberline {3.7}Sources of Business Cycles in Tanzania}{20}
+\contentsline {subsection}{\numberline {3.8}Long Term Movements in Tax Revenue and Tax Bases}{21}
+\contentsline {subsection}{\numberline {3.9}Link Between Business/Seasonal Cycles and Tax Revenue}{22}
+\contentsline {section}{\numberline {4}Conclusion}{23}
+\contentsline {subsection}{\numberline {4.1}Business Cycles}{23}
+\contentsline {subsection}{\numberline {4.2}Seasonal Cycles}{24}
+\contentsline {section}{\numberline {A}Estimates of Growth Rates by OLS}{25}
+\contentsline {section}{\numberline {B}Estimates of Tax Elasticities}{25}
